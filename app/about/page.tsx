@@ -82,7 +82,7 @@ export default function AboutPage() {
             <div className="flex flex-col items-center mb-6">
               <div className="w-32 h-32 rounded-full overflow-hidden mb-4 border-2 border-[#569cd6]">
                 <Image
-                  src="/placeholder.svg?height=128&width=128"
+                  src="/pfp.jpg"
                   alt="Praise Folorunso"
                   width={128}
                   height={128}
