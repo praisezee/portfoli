@@ -13,6 +13,8 @@ export default function Home() {
     { name: "HTML", color: "bg-orange-500" },
     { name: "CSS", color: "bg-blue-500" },
     { name: "Bootstrap", color: "bg-purple-500" },
+    { name: "Node.js", color: "bg-teal-500" },
+    { name: "Express.js", color: "bg-orange-500" },
     { name: "Tailwind", color: "bg-cyan-500" },
     { name: "JavaScript", color: "bg-yellow-500" },
     { name: "React.js", color: "bg-blue-400" },
